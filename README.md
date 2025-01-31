@@ -6,7 +6,6 @@ This is a full-stack E-Commerce website built using the MERN (MongoDB, Express.j
 🚀 Features
 ✅ Product Listings – Display products dynamically from the database
 ✅ Shopping Cart – Add & remove items from the cart
-✅ Search & Filter – Easily find products
 ✅ Responsive Design – Works on mobile & desktop
 ✅ Admin Panel – Manage products (Add, Update, Delete)
 
